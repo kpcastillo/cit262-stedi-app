@@ -1,8 +1,8 @@
-const sayHello=()=>{
+const helloKaren=()=>{
 
-    return "hello";
+    return "Hello Karen";
 }
 
-export default sayHello;
+export default helloKaren;
 
-console.log(sayHello());
+console.log(helloKaren);
